@@ -3,6 +3,8 @@
   <h2 align="center">  🩰 Beatriz Oliveira 👑 </h2>
 </p>
 
+<img align="right" src="https://github.com/beatrizsaoliveira/beatrizsaoliveira/blob/main/images/female-dev.webp" width="400px"/>
+
 -   💻 &lt;Junior FullStack Developer&gt;;
 -   🤝 I'm currently looking for a new role;
 -   🎓 [<Academia de Código\_>](https://www.academiadecodigo.org/ '<Academia de Código_>');
