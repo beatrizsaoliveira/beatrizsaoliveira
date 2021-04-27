@@ -3,7 +3,7 @@
   <h2 align="center">  🩰 Beatriz Oliveira 👑 </h2>
 </p>
 
-<img align="right" src="https://github.com/beatrizsaoliveira/beatrizsaoliveira/blob/main/images/female-dev.webp" width="400px"/>
+<img align="right" src="https://github.com/beatrizsaoliveira/beatrizsaoliveira/blob/main/images/female-dev.webp" height="200px"/>
 
 -   💻 &lt;Junior FullStack Developer&gt;;
 -   🤝 I'm currently looking for a new role;
@@ -12,6 +12,8 @@
 -   📝 I'm currently learning TDD (Test-driven Development);
 -   📲 You can reach me on [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beatriz30soares@gmail.com)](mailto:beatriz30soares@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-dev/)](https://www.linkedin.com/in/beatriz-dev/);
 -   📄 You can download my CV [here](https://github.com/beatrizsaoliveira/beatrizsaoliveira/blob/main/assets/CV_-_Beatriz_Oliveira_-_EN.pdf 'here').
+
+---
 
 ## Technologies I know and I'm learning
 
@@ -79,11 +81,15 @@
 <img src="https://github.com/beatrizsaoliveira/beatrizsaoliveira/blob/main/icons/scrum.png" alt="Scrum" height="80px" title="Scrum"/>
 </p>
 
+---
+
 ## Statistics
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beatrizsaoliveira&color=c7637f" alt="beatrizsaoliveira" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=beatrizsaoliveira&include_all_commits=true&count_private=true&custom_title=Beatriz's GitHub Stats&show_icons=true&title_color=c7637f&text_color=697578&icon_color=c7637f&bg_color=fed5d1" alt="beatrizsaoliveira" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsaoliveira&layout=compact&langs_count=8&title_color=c7637f&text_color=697578&bg_color=fed5d1" alt="beatrizsaoliveira" /></p>
+
+---
 
 ## Let's connect:
 
